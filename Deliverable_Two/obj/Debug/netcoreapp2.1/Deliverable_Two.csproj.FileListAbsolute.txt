@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\PreWork\Deliverable_Two\Deliverable_Two\bin\Debug\netcoreapp2.1\Deliverable_Two.deps.json
+C:\Users\Administrator\source\repos\PreWork\Deliverable_Two\Deliverable_Two\bin\Debug\netcoreapp2.1\Deliverable_Two.runtimeconfig.json
+C:\Users\Administrator\source\repos\PreWork\Deliverable_Two\Deliverable_Two\bin\Debug\netcoreapp2.1\Deliverable_Two.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\PreWork\Deliverable_Two\Deliverable_Two\bin\Debug\netcoreapp2.1\Deliverable_Two.dll
+C:\Users\Administrator\source\repos\PreWork\Deliverable_Two\Deliverable_Two\bin\Debug\netcoreapp2.1\Deliverable_Two.pdb
+C:\Users\Administrator\source\repos\PreWork\Deliverable_Two\Deliverable_Two\obj\Debug\netcoreapp2.1\Deliverable_Two.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\PreWork\Deliverable_Two\Deliverable_Two\obj\Debug\netcoreapp2.1\Deliverable_Two.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PreWork\Deliverable_Two\Deliverable_Two\obj\Debug\netcoreapp2.1\Deliverable_Two.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\PreWork\Deliverable_Two\Deliverable_Two\obj\Debug\netcoreapp2.1\Deliverable_Two.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\PreWork\Deliverable_Two\Deliverable_Two\obj\Debug\netcoreapp2.1\Deliverable_Two.dll
+C:\Users\Administrator\source\repos\PreWork\Deliverable_Two\Deliverable_Two\obj\Debug\netcoreapp2.1\Deliverable_Two.pdb
